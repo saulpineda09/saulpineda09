@@ -23,10 +23,9 @@
 
 #### 🔧 Languages
 
-<p align="center">
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
-</p>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
+
 
 
 #### 🖥️ Frameworks
