@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0d1117,25:161b22,50:2563EB,75:161b22,100:0d1117&section=header&text=Vicente%20Saul%20Pineda%20Meraz&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineering%20Student%20•%20Mexico%20&descSize=18&descColor=58A6FF&descAlignY=56&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0d1117,25:161b22,50:2563EB,75:161b22,100:0d1117&section=header&text=Vicente%20Saul%20Pineda%20Meraz&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineering%20Student%20•%20Backend%20Developer&descSize=18&descColor=58A6FF&descAlignY=56&animation=fadeIn"/>
 
 </div>
 
@@ -26,7 +26,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=1700&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=💻+Backend+Developer;🚀+Passionate+about+Building+Scalable+Applications;☁️+Cloud+%26+DevOps+Enthusiast;🤖+Artificial+Intelligence+Enthusiast;🌎+Founder+of+Nexis+Oaxaca+Tech;📚+Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=1700&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=💻+Backend+Developer;🚀+Passionate+about+Building+Scalable+Applications;☁️+Cloud+%26+DevOps+Enthusiast;🤖+Artificial+Intelligence+Enthusiast;📚+Always+Learning+New+Technologies" alt="Typing SVG"/>
 
 </div>
 
@@ -35,27 +35,23 @@
 <div align="center">
 
 <a href="https://github.com/saulpineda09">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/saul-pineda/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:https://mail.google.com/mail/u/0/#inbox">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 </div>
 
 <br>
 
-<div align="center">
-
-
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## About me
 
 - 🎓 I am studying Information Technology and Communications Engineering at the Salina Cruz Institute of Technology, with a specialization in Software Development.
