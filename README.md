@@ -1,63 +1,122 @@
-<h1 align="center">Hi , I'm Saul Pineda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Competitive+Programmer;Always+learning+new+things"></a>
-</p>
+<!-- ===================================================== -->
+<!-- Language Switcher -->
+<!-- ===================================================== -->
+
+<div align="right">
+
+<img src="https://img.shields.io/badge/Español-🇲🇽-2ea44f?style=flat-square" alt="Español"/>
+
+<a href="./README_EN.md">
+<img src="https://img.shields.io/badge/English-🇺🇸-0366d6?style=flat-square" alt="English"/>
+</a>
+
+</div>
+
+<!-- ===================================================== -->
+<!-- HEADER -->
+<!-- ===================================================== -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0d1117,25:161b22,50:2563EB,75:161b22,100:0d1117&section=header&text=Vicente%20Saul%20Pineda%20Meraz&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineering%20Student%20•%20Mexico%20&descSize=18&descColor=58A6FF&descAlignY=56&animation=fadeIn"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=1700&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=💻+Backend+Developer;🚀+Passionate+about+Building+Scalable+Applications;☁️+Cloud+%26+DevOps+Enthusiast;🤖+Artificial+Intelligence+Enthusiast;🌎+Founder+of+Nexis+Oaxaca+Tech;📚+Always+Learning+New+Technologies"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/saulpineda09">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/saul-pineda/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:https://mail.google.com/mail/u/0/#inbox">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
 
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+</div>
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## About me
 
-<br><br>
+- 🎓 I am studying Information Technology and Communications Engineering at the Salina Cruz Institute of Technology, with a specialization in Software Development.
+- 💻 I love using Software as a solution for every `Problem`.
+- 📚 I’m currently learning `Software Engineering`.
+- 🤓 Always `learning new things`.
+- 💼 I’m currently open for a new `job opportunity`.
 
-- :school: I am studying Information Technology and Communications Engineering at the Salina Cruz Institute of Technology, with a specialization in software development.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :student: I’m currently learning `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`
-
-
+---
 
 ## 🛠️ My Skills
 
-
 #### 🔧 Languages
 
-<code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,php" />
+</p>
 
-
+---
 
 #### 🖥️ Frameworks
 
-<code><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,laravel" />
+</p>
+
+---
 
 #### 🗄️ Databases
-<code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" />
+</p>
+
+---
+
+#### ☁️ Cloud & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker" />
+</p>
+
+---
 
 #### ⚙️ Other Tools
-<code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=insomnia" height="48" />
+</p>
 
- ### 💳 Github Profile Summary Card
- 
- <div align=center>
-  
+---
+
+### 💳 Github Profile Summary Card
+
+<div align="center">
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saulpineda09&theme=github_dark)
-  
- </div>
 
- 
-<p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-</p>
- 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
-<p align="center">
-	<a href="https://mail.google.com/mail/u/0/#inbox"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/saulpineda09"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/saul-pineda/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
+</div>
+
+---
+
+##  Connect with me
